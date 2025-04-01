@@ -2,7 +2,7 @@
 
 Este repositório contém dois arquivos principais:
 
-- **tutorial.ipynb:** Um notebook Jupyter expandido que integra conceitos dos capítulos 2 (Probability Theory), 3 (Statistics), 6 (Basic Graphs) e 7 (Extended Graphs) do livro *The Atlas for the Aspiring Network Scientist. O tutorial foi estruturado segundo a estratégia _knowing, discovering, sharing e experiencing_, proporcionando uma jornada completa desde os fundamentos teóricos até a experimentação prática em network science.
+- **tutorial_aed2.ipynb:** Um notebook Jupyter expandido que integra conceitos dos capítulos 2 (Probability Theory), 3 (Statistics), 6 (Basic Graphs) e 7 (Extended Graphs) do livro *The Atlas for the Aspiring Network Scientist. O tutorial foi estruturado segundo a estratégia _knowing, discovering, sharing e experiencing_, proporcionando uma jornada completa desde os fundamentos teóricos até a experimentação prática em network science.
   
 - **README.md:** Este arquivo explica detalhadamente o processo de criação do tutorial, a escolha dos conteúdos e como as ideias dos capítulos foram organizadas e ampliadas para criar uma experiência interativa e didática.
 
